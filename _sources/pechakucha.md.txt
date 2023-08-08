@@ -3,3 +3,10 @@
 
 
 ![alt text](_static/img/IMG_20230806_231350_993.jpg)
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+
+pechakucha
+```
