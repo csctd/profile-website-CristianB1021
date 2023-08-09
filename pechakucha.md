@@ -1,12 +1,5 @@
+# TD 2023 Pictures
 
-# Pechakucha
+![pic!](_static/img/IMG_20230806_231350_993.jpg "pic")
 
-
-![alt text](_static/img/IMG_20230806_231350_993.jpg)
-
-```{toctree}
-:maxdepth: 2
-:hidden:
-
-pechakucha
-```
+![pic#2](_static/img/Snapchat-333556094.jpg "pic")
