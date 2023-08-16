@@ -81,7 +81,6 @@ html_sidebars = {
     "pechakucha":[]
 }
 
-
 blog_title = "Blog "
 blog_path = "news"
 blog_feed_length = 5
