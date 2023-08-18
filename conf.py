@@ -83,7 +83,7 @@ html_sidebars = {
 
 blog_title = "Blog "
 blog_path = "news"
-blog_feed_length = 5
+blog_feed_length = 20
 fontawesome_included = True
 blog_post_pattern = "news/*"
 post_redirect_refresh = 1
