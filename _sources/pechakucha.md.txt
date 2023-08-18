@@ -10,12 +10,12 @@
 
 ```{card}
 :class-card: slide
-![Sleep Deprived](_static/img/Screenshot_20230816_135311_Pokmon%20Sleep.jpg)
+![Sleep Deprived](_static/img/sleepschedule.jpg)
 ```
 
 ```{card}
 :class-card: slide
-![Jupyter Crashed </3 >](_static/img/Screenshot%202023-08-16%20135010.png)
+![Jupyter Crashed </3 >](_static/img/jupter.png)
 ```
 
 ```{card}
@@ -50,7 +50,7 @@
 
 ```{card}
 :class-card: slide
-![Burger King With Friends !](_static/img/IMG_20230806_231350_993%20(1).jpg)
+![Burger King With Friends !](_static/img/burgerking.jpg)
 ```
 
 ```{card}
